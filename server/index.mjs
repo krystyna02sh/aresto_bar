@@ -1,7 +1,7 @@
 import fastify from 'fastify';
 import fastifyStatic from '@fastify/static';
 import path from 'path';
-import { fileURLToPath } from 'url'
+import { fileURLToPath } from 'url';
 
 
 const __filename = fileURLToPath(import.meta.url);
